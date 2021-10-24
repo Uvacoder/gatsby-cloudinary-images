@@ -1,9 +1,9 @@
 require('dotenv').config();
 module.exports = {
   siteMetadata: {
-    title: `Cloudinary Images`,
-    description: `Get the images from Cloudinary`,
-    author: `Ranganath`,
+    title: `My Cloudinary Images`,
+    description: `A simple demo displaying my images from a cloudinary account`,
+    author: `uvacoder`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
